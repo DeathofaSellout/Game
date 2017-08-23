@@ -1,3 +1,27 @@
 body {
-  
+
+}
+html {
+  background: url(https://pkphotooftheday.files.wordpress.com/2017/02/the-racetrack.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#mario{
+   height: 150px;
+   width: 150px;
+}
+#princess{
+  height:200px;
+}
+.header{
+  height: 200px;
+}
+.center{
+  display: block;
+  margin: auto;
+  width: 40%;
+  height: 200px;
+  width: 350px;
 }
